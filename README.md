@@ -1,4 +1,4 @@
-<h1>This is Ui Used in code</h1>
+<h1>Ui Used in code</h1>
 <img src='https://github.com/user-attachments/assets/9c1fad18-23df-496c-bd0b-200db2fd6046'>
 <h1>Project EndPoint(Postman)</h1>
 <img src="https://github.com/user-attachments/assets/9a369c8b-b26c-4845-9b70-f957ce9aeea7" alt="Screenshot (117)">
@@ -9,3 +9,5 @@
 <img src="https://github.com/user-attachments/assets/f7b5cc94-9cfe-4149-a36b-c65fd46a08a2" alt="Screenshot (120)">
 <img src="https://github.com/user-attachments/assets/11e6ff09-5f3f-426e-9dc6-d61ae45b9c07" alt="Screenshot (119)">
 <img src="https://github.com/user-attachments/assets/06fa045e-a0ac-4650-ae60-280b738953fd" alt="Screenshot (118)">
+<h1>About Application</h1>
+<p>Tazkarti website is specially designed to sell tickets online for all types of cultural, artistic and entertainment events and activities. We believe in the importance of live shows and cultural performances in their various forms that ensure direct communication between the artist and his fans. Tazkarti website facilitates and provides a sophisticated and secure platform to publish these shows and sell tickets smoothly and without complications.</p>
