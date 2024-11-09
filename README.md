@@ -1,4 +1,4 @@
-<h1>Ui Used in code</h1>
+<h1>Ui Used</h1>
 <img src='https://github.com/user-attachments/assets/9c1fad18-23df-496c-bd0b-200db2fd6046'>
 <h1>Project EndPoint(Postman)</h1>
 <img src="https://github.com/user-attachments/assets/9a369c8b-b26c-4845-9b70-f957ce9aeea7" alt="Screenshot (117)">
